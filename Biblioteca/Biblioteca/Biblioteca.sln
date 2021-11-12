@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{74E0AFA4-9941-42EF-B7D6-1EE325A31F9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{74E0AFA4-9941-42EF-B7D6-1EE325A31F9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca.Test", "Biblioteca.Test\Biblioteca.Test.csproj", "{5D1F9657-CABB-493A-A224-074D1F445E5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{74E0AFA4-9941-42EF-B7D6-1EE325A31F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74E0AFA4-9941-42EF-B7D6-1EE325A31F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74E0AFA4-9941-42EF-B7D6-1EE325A31F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D1F9657-CABB-493A-A224-074D1F445E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D1F9657-CABB-493A-A224-074D1F445E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D1F9657-CABB-493A-A224-074D1F445E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D1F9657-CABB-493A-A224-074D1F445E5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
