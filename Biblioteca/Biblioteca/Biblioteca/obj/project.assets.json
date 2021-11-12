@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marce\\OneDrive\\Documents\\WCC\\Biblioteca\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\marce\\OneDrive\\Documents\\WCC\\wcc\\Biblioteca\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\marce\\OneDrive\\Documents\\WCC\\Biblioteca\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "C:\\Users\\marce\\OneDrive\\Documents\\WCC\\wcc\\Biblioteca\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marce\\OneDrive\\Documents\\WCC\\Biblioteca\\Biblioteca\\Biblioteca\\obj\\",
+      "outputPath": "C:\\Users\\marce\\OneDrive\\Documents\\WCC\\wcc\\Biblioteca\\Biblioteca\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
